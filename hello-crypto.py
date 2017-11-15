@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 # hello crypto 
-# crypo currency ticker sourced from bitstamp & displayed on pimoroni's Scroll pHAT HD
+# crypto currency ticker sourced from bitstamp & displayed on pimoroni's Scroll pHAT HD
 # made by @mrglennjones
 
 import time
