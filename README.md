@@ -22,6 +22,7 @@ follow Scroll pHAT HD installation here https://github.com/pimoroni/scroll-phat-
 
 simply run hello-crypto.py on your pi! 
 
+also try hello-btc.py btc ticker! which scrolls up/down for rising/falling values ! (made by pbpraha)
 
 
 
@@ -34,8 +35,6 @@ simply run hello-crypto.py on your pi!
 
 
 ![hello-cryptoimg](20171115_112505.jpg)
-
-also try hello-btc.py for a scrolling btc ticker! which scrolls up for rising values and down for falling! (made by pbpraha)
 
 
 
