@@ -1,12 +1,34 @@
 ![hello-crypto](hellocryptologo.png)
 
+----
+
 crypto currency ticker sourced from bitstamp & displayed on pimoroni's Scroll pHAT HD running on the raspberry pi.
 
 default supporting bitcoin, ethereum, litecoin.
 
+----
+## Requirements
+
+* **Hardware**:
+    - Raspberry pi (zero recommended)
+    - Scroll pHAT HD  17x7 bright white pixels [https://shop.pimoroni.com/products/scroll-phat-hd](https://shop.pimoroni.com/products/scroll-phat-hd) (BLINKEN LIGHTS!)
+* **Recommended **: [https://shop.pimoroni.com/products/phat-diffuser](https://shop.pimoroni.com/products/phat-diffuser) (Softens BLINKEN LIGHTS!)
+
+
+## Installation
+
 simply run hello-crypto.py on your pi! 
 
-made by @mrglennjones
+----
+
+
+## Author
+
+**Glenn Jones**
+
+* Twitter: [@mrglennjones](https://twitter.com/mrglennjones)
+
+
 
 ![hello-cryptoimg](20171115_112505.jpg)
 
