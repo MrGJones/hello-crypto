@@ -13,7 +13,7 @@ import urllib
 url = 'https://www.bitstamp.net/api/v2/ticker/btcusd/'
 
 BRIGHTNESS=0.2
-count = 0
+
 last = 0
 
 while True:
