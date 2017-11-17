@@ -1,4 +1,4 @@
-![hello-crypto](hellocrypto2.png)
+![hello-crypto](hellocrypto.png)
 
 
 
